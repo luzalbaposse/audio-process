@@ -9,7 +9,7 @@ Este script en Python facilita la conversión de archivos M4A a WAV en lotes uti
 
 ## Instalación de ffmpeg
 
-Asegúrate de tener `ffmpeg` instalado en tu sistema. Puedes descargarlo desde [ffmpeg.org](https://ffmpeg.org/download.html) o utilizar un gestor de paquetes como Homebrew en macOS.
+Asegurate de tener `ffmpeg` instalado en tu sistema. Podes bajarlo desde [ffmpeg.org](https://ffmpeg.org/download.html) o Homebrew en macOS.
 
 En macOS, puedes instalar `ffmpeg` con Homebrew ejecutando el siguiente comando en la terminal:
 
