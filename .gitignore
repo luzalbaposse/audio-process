@@ -1,0 +1,4 @@
+# BEGIN: /Users/luzalbaposse/Documents/GitHub/m4a-to-wav/.gitignore
+__pycache__/
+*.pyc
+# END: /Users/luzalbaposse/Documents/GitHub/m4a-to-wav/.gitignore
