@@ -74,7 +74,7 @@ Este Jupyter Notebook se enfoca en obtener métricas de 'entrainment' en convers
 
 ## Requisitos
 
-Para ejecutar este Notebook, es necesario instalar la librería `entrainment_metrics`. Esto se puede hacer mediante el siguiente comando:
+Para ejecutar este Notebook, es necesario instalar la librería `entrainment_metrics`. Corre el comando:
 
 ```bash
 pip install entrainment_metrics
@@ -82,15 +82,15 @@ pip install entrainment_metrics
 
 ## Instalación
 
-Asegúrate de tener Python y Jupyter Notebook instalados en tu sistema. Luego, puedes instalar la librería requerida como se menciona en la sección de requisitos.
+Importante tener Python y Jupyter Notebook instalados en tu sistema. Después, podes instalar la librería requerida como se menciona en la sección de requisitos dentro del notebook.
 
 ## Uso
 
-Para utilizar este Notebook, sigue las instrucciones detalladas en la sección inicial del mismo. Estas instrucciones guiarán al usuario a través de los pasos necesarios para realizar el análisis.
+Para utilizar este Notebook, seguí las instrucciones detalladas en la sección inicial del mismo. Estas instrucciones guiarán al usuario a través de los pasos necesarios para realizar el análisis.
 
 ## Contribución y Contacto
 
-Para contribuciones, preguntas o colaboraciones, por favor escribime a [malbaposse@mail.utdt.edu](mailto:malbaposse@mail.utdt.edu). 
+Para contribuciones, preguntas o colaboraciones, porfi escribime a [malbaposse@mail.utdt.edu](mailto:malbaposse@mail.utdt.edu). 
 
 Agradecimientos especiales a Erik Ernest por su ayuda :D y los notebooks base que me pasó, mucho del código es de él.
 
