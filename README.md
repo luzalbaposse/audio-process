@@ -1,4 +1,4 @@
-# Procesamiento de Audio
+# Procesamiento de Audio y obtención de Entrainment Metrics
 # Conversor de M4A a WAV
 
 Este script en Python facilita la conversión de archivos M4A a WAV en lotes utilizando `ffmpeg`. 
@@ -65,3 +65,33 @@ Asegurate de tener Praat instalado en tu sistema. Podes descargarlo desde [el si
 5. Se te pedirá que ingreses la ruta del directorio principal que contiene carpetas individuales con archivos WAV. Ingresa la ruta y presiona Enter.
 
 6. El script recorrerá cada carpeta, buscará archivos WAV y los combinará a estéreo utilizando Praat. Los archivos combinados se guardarán en cada carpeta con el nombre "combined_stereo.wav".
+
+# Entrainment Metrics Full Analysis
+
+## Descripción General
+
+Este Jupyter Notebook se enfoca en obtener métricas de 'entrainment' en conversaciones sobre temas polémicos. El análisis incluye la identificación de métricas de convergencia, divergencia y proximidad en estas conversaciones, proporcionando insights valiosos sobre la dinámica de los debates.
+
+## Requisitos
+
+Para ejecutar este Notebook, es necesario instalar la librería `entrainment_metrics`. Esto se puede hacer mediante el siguiente comando:
+
+```bash
+pip install entrainment_metrics
+```
+
+## Instalación
+
+Asegúrate de tener Python y Jupyter Notebook instalados en tu sistema. Luego, puedes instalar la librería requerida como se menciona en la sección de requisitos.
+
+## Uso
+
+Para utilizar este Notebook, sigue las instrucciones detalladas en la sección inicial del mismo. Estas instrucciones guiarán al usuario a través de los pasos necesarios para realizar el análisis.
+
+## Contribución y Contacto
+
+Para contribuciones, preguntas o colaboraciones, por favor escribime a [malbaposse@mail.utdt.edu](mailto:malbaposse@mail.utdt.edu). 
+
+Agradecimientos especiales a Erik Ernest por su ayuda :D y los notebooks base que me pasó, mucho del código es de él.
+
+
